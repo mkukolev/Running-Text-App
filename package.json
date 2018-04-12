@@ -1,0 +1,23 @@
+{
+  "name": "running-text-app",
+  "version": "1.0.0",
+  "description": "running text ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkukolev/Running-Text-App.git"
+  },
+  "author": "mkukolev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkukolev/Running-Text-App/issues"
+  },
+  "homepage": "https://github.com/mkukolev/Running-Text-App#readme",
+  "devDependencies": {
+    "node-static": "^0.7.10"
+  }
+}
